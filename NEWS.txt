@@ -6,6 +6,8 @@ Version 6.8.8 - not yet released
 * Kobo
   - support for Kobo Aura Edition 2
   - fix Wifi on recent Kobo firmware releases
+* devices
+  - IMI: fix PGRMZ parsing (was interpreted as altitude, now is pressure altitude)
 
 Version 6.8.7 - 2016/08/12
 * data files
